@@ -6,7 +6,7 @@ PKG_RELEASE:=1
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=git@github.com:sneeZ1E/student-db.git
 PKG_SOURCE_DATE:=2024-12-12
-PKG_SOURCE_VERSION:=main
+PKG_SOURCE_VERSION:=e9ccd21
 PKG_MIRROR_HASH:=skip
 
 PKG_MAINTAINER:=Martins Lacis <martins.laacis13@gmail.com>
